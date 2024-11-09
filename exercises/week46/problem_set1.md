@@ -115,7 +115,7 @@ class SimpleGSNE:
 
 ### Key Resources:
 1. NetworkX documentation: https://networkx.org/documentation/stable/
-2. California Road Network: https://networkrepository.com/ca-road.php
+2. California Road Network: https://networkrepository.com/roadNet-CA.php
 3. SciPy sparse matrix documentation: https://docs.scipy.org/doc/scipy/reference/sparse.html
 
 This revised set of exercises:
