@@ -11,7 +11,7 @@ regions= pd.read_csv("minimal_example/synthetic_data/regions.csv")
 schools= pd.read_csv("minimal_example/synthetic_data/schools.csv")
 stations= pd.read_csv("minimal_example/synthetic_data/stations.csv")
 
-print(stations.head())
+#print(stations.head())
 
 G = nx.Graph()
 
@@ -63,6 +63,7 @@ fig, ax = plt.subplots(figsize=(10, 10))
 geo_h.plot(ax=ax, color="red", markersize=10)
 geo_s.plot(ax=ax, color="blue", markersize=10)
 geo_r.plot(ax=ax, color="green", markersize=10)
+ctx.add_basemap(ax)
 plt.show()
 
 #See attributes of houses
