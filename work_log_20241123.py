@@ -4,6 +4,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import geopandas as gpd
 from geopy.distance import geodesic
+import contextily as ctx
 
 houses = pd.read_csv("minimal_example/synthetic_data/houses.csv")
 regions= pd.read_csv("minimal_example/synthetic_data/regions.csv")
