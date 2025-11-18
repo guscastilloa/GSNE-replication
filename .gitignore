@@ -8,6 +8,7 @@
 *.ptx
 *.cubin
 *.fatbin
+gnn/
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
