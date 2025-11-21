@@ -1,0 +1,6 @@
+poi_id,elevated,platform_length_m,station_zone,has_bike_parking,lat,lon,daily_traffic,connections
+T1,yes,120,A,yes,4.6800,-74.0800,5000,4
+T2,yes,115,A,yes,4.6550,-74.1000,4200,3
+T3,no,130,B,no,4.7000,-74.0600,6100,5
+T4,yes,110,B,yes,4.6400,-74.1200,3800,2
+T5,no,140,C,no,4.7200,-74.0500,7300,6

@@ -1,0 +1,5 @@
+poi_id,student_teacher_ratio,public_private,has_special_needs_program,campus_size_acres,lat,lon,ranking,students
+S1,15.5,public,yes,2.3,4.6830,-74.0815,8.843748470046233,1226
+S2,15.5,public,yes,2.3,4.6615,-74.0980,7.176985004103839,751
+S3,15.5,public,yes,2.3,4.7035,-74.0575,7.176985004103839,751
+S4,17.0,private,no,3.3,4.6470,-74.1185,7.176985004103839,751
