@@ -1,0 +1,6 @@
+services:
+  etl:
+    build: .
+    env_file: .env
+    volumes:
+      - ./data:/data
